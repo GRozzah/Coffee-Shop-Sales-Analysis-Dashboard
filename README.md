@@ -1,9 +1,9 @@
 # Coffee-Shop-Sales-Analysis-Dashboard
 This project involves analyzing coffee orders data to gain insights into sales, customer demographics, and product performance. 
-# Coffee Orders Analysis Dashboard
+![Coffee Orders Analysis Dashboard](Dashboard image.JPG)
 
 ## Overview
-This project involves analyzing coffee orders data to gain insights into sales, customer demographics, and product performance. The dataset consists of several sheets, each providing specific information on coffee orders, customers, products, and sales metrics. A dashboard was built to visualize key performance indicators (KPIs) to help in decision-making.
+In this project we analyze coffee sales data to gain insights into customers, their orders, and overall product performance. The original dataset consists of sheets providing information on coffee orders, customers and products through which i calculated the total sales metric. A dashboard was built to visualize key performance indicators to help in decision-making for the shop.
 
 ## Project Structure
 
@@ -29,30 +29,4 @@ The following insights were generated from the analysis:
 
 5. **Profit Margins**: By examining the `products` sheet, the dashboard highlights the profit margins for each product, assisting in identifying high-margin items for targeted marketing.
 
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/coffee-orders-dashboard.git
-    ```
-
-2. Install required packages:
-    ```bash
-    pip install pandas matplotlib seaborn
-    ```
-
-
-4. Explore the dashboard visualizations and gain insights into sales trends, customer preferences, and product performance.
-
-## Technologies Used
-
-- **Pandas**: For data cleaning and manipulation.
-- **Matplotlib & Seaborn**: For data visualization.
-- **Jupyter Notebook**: For presenting the analysis interactively.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

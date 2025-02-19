@@ -1,6 +1,7 @@
 # Coffee-Shop-Sales-Analysis-Dashboard
 This project involves analyzing coffee orders data to gain insights into sales, customer demographics, and product performance. 
-![Coffee Orders Analysis Dashboard](Dashboard image.JPG)
+
+![Coffee Orders Analysis Dashboard](Dashboard_image.JPG)
 
 ## Overview
 In this project we analyze coffee sales data to gain insights into customers, their orders, and overall product performance. The original dataset consists of sheets providing information on coffee orders, customers and products through which i calculated the total sales metric. A dashboard was built to visualize key performance indicators to help in decision-making for the shop.
